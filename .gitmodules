@@ -1,0 +1,18 @@
+[submodule "repo_submodules/EnvironmentDevelopmentDocker"]
+	path = repo_submodules/EnvironmentDevelopmentDocker
+	url = https://github.com/NaagrajHM/EnvironmentDevelopmentDocker.git
+[submodule "repo_projects/project_TesterDiagnosticUDSi14229"]
+	path = repo_projects/project_TesterDiagnosticUDSi14229
+	url = https://github.com/NaagrajHM/project_TesterDiagnosticUDSi14229.git
+[submodule "repo_submodules/InterfaceCore"]
+	path = repo_submodules/InterfaceCore
+	url = https://github.com/NaagrajHM/InterfaceCore.git
+[submodule "repo_submodules/Application"]
+	path = repo_submodules/Application
+	url = https://github.com/NaagrajHM/Application.git
+[submodule "repo_submodules/ClassCore"]
+	path = repo_submodules/ClassCore
+	url = https://github.com/NaagrajHM/ClassCore.git
+[submodule "repo_projects/project_SimulationVehicle"]
+	path = repo_projects/project_SimulationVehicle
+	url = https://github.com/NaagrajHM/project_SimulationVehicle.git
