@@ -16,3 +16,6 @@
 [submodule "repo_projects/project_SimulationVehicle"]
 	path = repo_projects/project_SimulationVehicle
 	url = https://github.com/NaagrajHM/project_SimulationVehicle.git
+[submodule "repo_submodules/ClassRingBuffer"]
+	path = repo_submodules/ClassRingBuffer
+	url = https://github.com/NaagrajHM/ClassRingBuffer.git
