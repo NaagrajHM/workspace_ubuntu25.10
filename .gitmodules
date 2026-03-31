@@ -19,3 +19,6 @@
 [submodule "repo_submodules/ClassRingBuffer"]
 	path = repo_submodules/ClassRingBuffer
 	url = https://github.com/NaagrajHM/ClassRingBuffer.git
+[submodule "repo_submodules/Dcm"]
+	path = repo_submodules/Dcm
+	url = https://github.com/NaagrajHM/Dcm.git
