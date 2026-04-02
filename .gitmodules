@@ -22,3 +22,15 @@
 [submodule "repo_submodules/Dcm"]
 	path = repo_submodules/Dcm
 	url = https://github.com/NaagrajHM/Dcm.git
+[submodule "repo_submodules/DeviceDriverEthernet"]
+	path = repo_submodules/DeviceDriverEthernet
+	url = https://github.com/NaagrajHM/DeviceDriverEthernet.git
+[submodule "repo_submodules/ServicesCommunicationDcm"]
+	path = repo_submodules/ServicesCommunicationDcm
+	url = https://github.com/NaagrajHM/ServicesCommunicationDcm.git
+[submodule "repo_submodules/ServicesSystemEcuM"]
+	path = repo_submodules/ServicesSystemEcuM
+	url = https://github.com/NaagrajHM/ServicesSystemEcuM.git
+[submodule "repo_submodules/ServicesSystemSchM"]
+	path = repo_submodules/ServicesSystemSchM
+	url = https://github.com/NaagrajHM/ServicesSystemSchM.git
